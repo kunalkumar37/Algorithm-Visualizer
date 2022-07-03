@@ -1,7 +1,7 @@
 # Pathfinding Visualizer
 I took all the ideas and concepts from clement but also did something different fixes bug that the wall is not creating properly.
 Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): 
-https://kunalkumar37.github.io/Algorithm-Visualizer/
+https://pathfindingalgorithms.netlify.app/
 
 ## Meet the Algorithms
 
